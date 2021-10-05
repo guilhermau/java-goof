@@ -45,4 +45,4 @@ TODO
 This repo is available released under the [MIT License](http://opensource.org/licenses/mit-license.php/).
 # java-goof
 
-Modificado por Guilherme
+Modificado por Guilherme Rod
